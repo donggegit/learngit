@@ -1,9 +1,3 @@
 ÄãÃÇºÃ
-
-sd
-°ÂÈü
-
-d
-asd
-
-asd
+Git is a distributed version control system.
+Git is free software.
